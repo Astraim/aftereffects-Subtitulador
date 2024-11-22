@@ -1,4 +1,5 @@
-Script para Subtítulos en After Effects
+**Script para Subtítulos en After Effects**
+
   Este script de After Effects permite importar subtítulos desde un archivo de texto, agregarlos a una composición, y gestionar su posición y estilo de manera eficiente. También incluye funcionalidades para copiar y aplicar propiedades de texto (tamaño, fuente, color) y la posición de un subtítulo a otros, facilitando la edición de subtítulos de manera más rápida y precisa.
 
 Características
